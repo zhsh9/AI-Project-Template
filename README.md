@@ -1,3 +1,24 @@
+## Project Structure
+
+```
+├── LICENSE
+├── README.md
+├── data
+│   ├── data_temp
+│   ├── ds1
+│   ├── ds2
+│   └── ds3
+├── env_check.py
+├── log
+│   ├── ds1_model1_test.log
+│   ├── ds1_model1_train.log
+│   └── ds1_model1_val.log
+├── model
+└── output
+    ├── ds1_model1.out
+    └── ds1_model2.out
+```
+
 ## Environment Configuration
 
 - windows or linux
